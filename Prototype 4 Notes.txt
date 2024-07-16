@@ -1,0 +1,85 @@
+How to Play:
+
+Survive as many rounds as you can. Stay on the platform. Knock off your enemies. Boss battle every four rounds. Enemies increase with each wave.
+
+W / S 
+Move the player forward or backward relative to the camera.
+
+A / D
+Rotate the camera.
+
+Shift
+Dash in the current direction of movement - you gain a temporary speed boost and an increase in mass. 
+Tip: Always available (except during activate smash ability).
+Tip: Can be used to dodge or push light / equal mass enemies.
+Tip: Make much use of this - it's free and very useful.
+
+C
+Activate the Smash ability when the power-up is activated and not on cooldown.
+
+Space
+Activate the Lasers ability when the power-up is activated and not on cooldown.
+
+
+Power-ups:
+All powers-ups last for a total of 7 seconds after pickup.
+These spawn every wave start. 
+
+Smash - The Blue Gem.
+On button press, rise into the air and smash on the ground with explosive force. 
+Activation Cooldown: 2 Seconds.
+Tip: Can't be activated during small window while dashing. 
+Tip: Force applied to enemies is greater closer to your point of contact with the ground.
+
+Repulse - The Yellow Gem.
+Enemies that contact your shield are repulsed away.
+Activation Cooldown: N/A - Passive ability.
+Tip: Combine with dash to reach enemies and push them away.
+Tip: Enemies spheres can't reach you with your shield up, therefore they can't push you.
+
+Lasers - The Red Gem.
+On button press, fire lasers towards all enemies within the scene, providing a small push-back effect. 
+Activation Cooldown: 0.5 Seconds.
+Tip: Lasers can track enemies positions.
+Tip: More effective against lighter enemies then heavier ones.
+
+Enemies:
+
+Normal Enemy - Green.
+Mass: 20
+Force: 150
+
+Basic enemy is well-rounded - it's mass and speed ratio helps it have decent speed and maneuverability.
+Likely to be even matched with you in any collision.
+
+Heavy Enemy - Yellow.
+Mass: 60
+Force: 400
+
+Has such a heavy mass the despite it's force, it's slower to start moving and it's mass and speed ratio makes it slow at maneuverability.
+You'll stuggle to push it about however, and it'll knock you around easily.
+
+Quick Enemy - Red.
+Mass: 10
+Force: 150
+
+It's light weight means it quickly gathers speed despite it's force level. Very maneuverability.
+Whilst it's light weight makes it seemingly easy to push about, watchout - it's speed makes it pack a deceptively hard punch with enough momentum.
+
+Guard Enemy - Blue.
+Mass: 30
+Force: 300
+
+The protecters of the Boss, these are upgraded versions of normal enemies.
+Heavier weight means it can push you around, but it's doubled force makes it speedier and more maneuverable then normal.
+Weight and speed combines means it really hit hard accurately.
+
+Boss Enemy - Blue.
+Mass: 100
+Force: 900
+
+The boss, extremely heavy and can't be pushed about. It's extreme force makes it surprisingly maneuverable too. Will send you flying away on contact.
+The boss has a Repulse shield of it's own to further increase it pushback force. Try knocking the boss off to remove it's shield.
+The shield has three lives total, before leaving the boss exposed to it's one life left.
+Once you knock the boss off once, it will start spawning it's guard to assist in it's protection.
+Powerups will be provided each time a life is lost by the boss, while the boss has more then 1 life remaining.
